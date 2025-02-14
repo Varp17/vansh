@@ -137,7 +137,7 @@
         hsl(150 80% 20% / 0.3) 0%,
         hsl(170 60% 10% / 0.1) 100%
       ),
-      hsl(231, 32%, 29%) url("https://raw.githubusercontent.com/Varp17/vansh/main/videos/img3.jpg") 50% / cover;
+      hsl(231, 32%, 29%) url("https://raw.githubusercontent.com/Varp17/vansh/main/image/img3.jpg") 50% / cover;
     color: hsl(200 30% 98%);
   }
   
